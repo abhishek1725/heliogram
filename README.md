@@ -12,7 +12,7 @@ Team Members: Liya Reji, Dayona Elsa Jeen, Rose Brijit Abey
 🚀 The Project
 This repository contains a single index.html file that runs a self-contained animation. Using only HTML, CSS, and JavaScript, it tells the story of a young girl who receives a special message from the Sun itself, learning about solar flares, the magnetosphere, and how humanity works together to stay safe.
 
-[Link to Live Demo] 👈 (Replace this with your live GitHub Pages link!)
+[https://abhishek1725.github.io/heliogram/] 👈
 
 ✨ The Story
 The animation, "The Day the Sun Sent a Letter," follows a young girl as a sunbeam named Sol visits her. Sol explains that space weather events like solar flares are just the Sun's way of "talking," but sometimes its voice is too loud. The animation visualizes the disruption, Earth's protective "superhero cape" (the magnetosphere), and the beautiful auroras that result. It ends with a powerful message about how science, courage, and community create a "human chain of light" to protect our world.
